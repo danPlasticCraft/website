@@ -1,9 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T16:22:40.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="tASHILERyJiSFFbWHh_Y" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T17:42:43.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="02w8mr8GUWfb3dDpWU-5" version="24.0.4" type="github">
   <diagram name="Page-1" id="Z0QtxTJNyOdSbGM5Ax75">
-    <mxGraphModel dx="819" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Bv2QZ3zzGRtVuWLsNoTw-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bv2QZ3zzGRtVuWLsNoTw-1" target="Bv2QZ3zzGRtVuWLsNoTw-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bv2QZ3zzGRtVuWLsNoTw-1" value="https://plastic-craft.com/home/" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;enumerate=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="10" y="210" width="170" height="60" as="geometry">
+            <mxRectangle x="10" y="210" width="200" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bv2QZ3zzGRtVuWLsNoTw-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="Bv2QZ3zzGRtVuWLsNoTw-1">
+          <mxGeometry y="26" width="170" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Bv2QZ3zzGRtVuWLsNoTw-4" value="NO ERRORS" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="Bv2QZ3zzGRtVuWLsNoTw-1">
+          <mxGeometry y="34" width="170" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Bv2QZ3zzGRtVuWLsNoTw-16" value="https://plastic-craft.com/industries/" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;swimlaneLine=1;glass=0;shadow=0;textShadow=0;sketch=1;curveFitting=1;jiggle=2;fontSize=10;resizeWidth=1;resizeHeight=1;enumerate=1;overflow=block;" vertex="1" parent="1">
+          <mxGeometry x="360" width="480" height="86" as="geometry">
+            <mxRectangle x="310" y="-70" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bv2QZ3zzGRtVuWLsNoTw-17" value="&lt;div style=&quot;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; white-space-collapse: preserve;&quot;&gt;&lt;b&gt;Military - &lt;/b&gt;&quot;machinists&#39;&quot; should be &quot;machinists&quot; to correctly refer to plural without possession.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Theatrical Set Design &lt;/b&gt;- &quot;its&quot; in &quot;That&#39;s why its so important&quot; should be &quot;it&#39;s&quot; as a contraction for &quot;it is.&quot;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=block;rotatable=1;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;movableLabel=1;autosize=1;fontSize=10;collapsible=1;noLabel=0;portConstraintRotation=0;backgroundOutline=0;metaEdit=0;resizeHeight=1;resizeWidth=1;treeFolding=0;treeMoving=0;enumerate=0;comic=0;horizontal=1;labelBackgroundColor=none;shadow=0;textShadow=0;glass=0;rounded=0;imageAspect=1;recursiveResize=1;expand=1;" vertex="1" parent="Bv2QZ3zzGRtVuWLsNoTw-16">
+          <mxGeometry y="26" width="480" height="60" as="geometry">
+            <mxRectangle y="26" width="530" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bv2QZ3zzGRtVuWLsNoTw-21" value="https://plastic-craft.com/capabilities/" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;swimlaneLine=1;glass=0;shadow=0;textShadow=0;sketch=1;curveFitting=1;jiggle=2;fontSize=10;resizeWidth=1;resizeHeight=1;enumerate=1;overflow=block;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="200" height="56" as="geometry">
+            <mxRectangle x="310" y="-70" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bv2QZ3zzGRtVuWLsNoTw-22" value="&lt;div style=&quot;padding-left: 30px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NO ERRORS&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=block;rotatable=1;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;movableLabel=1;autosize=1;fontSize=10;collapsible=1;noLabel=0;portConstraintRotation=0;backgroundOutline=0;metaEdit=0;resizeHeight=1;resizeWidth=1;treeFolding=0;treeMoving=0;enumerate=0;comic=0;horizontal=1;labelBackgroundColor=none;shadow=0;textShadow=0;glass=0;rounded=0;imageAspect=1;recursiveResize=1;expand=1;" vertex="1" parent="Bv2QZ3zzGRtVuWLsNoTw-21">
+          <mxGeometry y="26" width="200" height="30" as="geometry">
+            <mxRectangle y="26" width="530" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bv2QZ3zzGRtVuWLsNoTw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Bv2QZ3zzGRtVuWLsNoTw-1" target="Bv2QZ3zzGRtVuWLsNoTw-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bv2QZ3zzGRtVuWLsNoTw-24" value="https://plastic-craft.com/custom-solutions/" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;swimlaneLine=1;glass=0;shadow=0;textShadow=0;sketch=1;curveFitting=1;jiggle=2;fontSize=10;resizeWidth=1;resizeHeight=1;enumerate=1;overflow=block;" vertex="1" parent="1">
+          <mxGeometry x="590" y="100" width="200" height="56" as="geometry">
+            <mxRectangle x="310" y="-70" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bv2QZ3zzGRtVuWLsNoTw-25" value="&lt;div style=&quot;padding-left: 30px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NO ERRORS&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=block;rotatable=1;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;movableLabel=1;autosize=1;fontSize=10;collapsible=1;noLabel=0;portConstraintRotation=0;backgroundOutline=0;metaEdit=0;resizeHeight=1;resizeWidth=1;treeFolding=0;treeMoving=0;enumerate=0;comic=0;horizontal=1;labelBackgroundColor=none;shadow=0;textShadow=0;glass=0;rounded=0;imageAspect=1;recursiveResize=1;expand=1;" vertex="1" parent="Bv2QZ3zzGRtVuWLsNoTw-24">
+          <mxGeometry y="26" width="200" height="30" as="geometry">
+            <mxRectangle y="26" width="530" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bv2QZ3zzGRtVuWLsNoTw-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Bv2QZ3zzGRtVuWLsNoTw-3" target="Bv2QZ3zzGRtVuWLsNoTw-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="240" />
+              <mxPoint x="270" y="170" />
+              <mxPoint x="570" y="170" />
+              <mxPoint x="570" y="127" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bv2QZ3zzGRtVuWLsNoTw-27" value="https://plastic-craft.com/request-a-quote/" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;swimlaneLine=1;glass=0;shadow=0;textShadow=0;sketch=1;curveFitting=1;jiggle=2;fontSize=10;resizeWidth=1;resizeHeight=1;enumerate=1;overflow=block;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="200" height="56" as="geometry">
+            <mxRectangle x="310" y="-70" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bv2QZ3zzGRtVuWLsNoTw-28" value="&lt;div style=&quot;padding-left: 30px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NO ERRORS&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=block;rotatable=1;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;movableLabel=1;autosize=1;fontSize=10;collapsible=1;noLabel=0;portConstraintRotation=0;backgroundOutline=0;metaEdit=0;resizeHeight=1;resizeWidth=1;treeFolding=0;treeMoving=0;enumerate=0;comic=0;horizontal=1;labelBackgroundColor=none;shadow=0;textShadow=0;glass=0;rounded=0;imageAspect=1;recursiveResize=1;expand=1;" vertex="1" parent="Bv2QZ3zzGRtVuWLsNoTw-27">
+          <mxGeometry y="26" width="200" height="30" as="geometry">
+            <mxRectangle y="26" width="530" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bv2QZ3zzGRtVuWLsNoTw-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=-0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Bv2QZ3zzGRtVuWLsNoTw-1" target="Bv2QZ3zzGRtVuWLsNoTw-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
